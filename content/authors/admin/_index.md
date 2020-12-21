@@ -63,4 +63,4 @@ highlight_name: false
 
 Yang Yang is currently a first-year MSc student at TU Eindhoven. His research interests include visualization, data mining and machine learning.
 
-Before coming to TU Eindhoven, he obtained his B.Eng. degree from Nankai University.
+Before coming to TU Eindhoven, he obtained his bachelor degree from Nankai University.
