@@ -26,8 +26,8 @@ experience:
     company: Huawei
     company_url: ''
     location: Beijing, China
-    date_start: '2017-01-01'
-    date_end: ''
+    date_start: '2019-06-01'
+    date_end: '2019-09-01'
     # description: |2-
     #     Responsibilities include:
         
@@ -39,7 +39,7 @@ experience:
     company: Intelligent Information Processing Lab, Nankai University
     company_url: ''
     location: Tianjin, China
-    date_start: '2017-01-01'
-    date_end: '2017-01-01'
+    date_start: '2018-05-01'
+    date_end: '2019-04-01'
     # description: Taught electronic engineering and researched semiconductor physics.
 ---
