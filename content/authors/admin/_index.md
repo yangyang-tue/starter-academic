@@ -18,8 +18,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
 - Visualization
+- Artificial Intelligence
 - Data Mining
 
 # Education to show in About widget
@@ -62,5 +62,3 @@ highlight_name: false
 ---
 
 Yang Yang is currently a first-year MSc student at TU Eindhoven. His research interests include visualization, data mining and artificial intelligence.
-
-I am actively looking for research intern opportunities in 2021 summer. Please feel free to contact me if you have open positions.
