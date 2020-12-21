@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yang Yang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MSc Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: TU Eindhoven
+  url: https://www.tue.nl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -19,21 +19,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Visualization
+- Data Mining
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc. in Computer Science and Engineering
+    institution: Eindhoven University of Technology, Eindhoven, The Netherlands
+    year: 2020 - Present
+  - course: B.Eng. in Computer Science and Technology
+    institution: Nankai University, Tianjin, China
+    year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,8 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yang Yang is currently a first-year MSc student at TU Eindhoven. His research interests include visualization, data mining and artificial intelligence.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am actively looking for research intern opportunities in 2021 summer. Please feel free to contact me if you have open positions.
