@@ -25,11 +25,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: M.Sc. in Computer Science and Engineering
-    institution: Eindhoven University of Technology, Eindhoven, The Netherlands
+  - course: M.Sc. in Computer Science
+    institution: Eindhoven University of Technology, The Netherlands
     year: 2020 - Present
-  - course: B.Eng. in Computer Science and Technology
-    institution: Nankai University, Tianjin, China
+  - course: B.Eng. in Computer Science
+    institution: Nankai University, China
     year: 2016 - 2020
 
 # Social/Academic Networking
@@ -40,18 +40,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/yangyang-tue
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/yang-yang-5b3a9b138/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
