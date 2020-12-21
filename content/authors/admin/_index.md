@@ -14,13 +14,13 @@ organizations:
   url: https://www.tue.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data visualization, data mining and machine learning.
 
 # Interests to show in About widget
 interests:
 - Visualization
-- Artificial Intelligence
 - Data Mining
+- Machine Learning
 
 # Education to show in About widget
 education:
@@ -61,4 +61,6 @@ email: "yangyang.tue@gmail.com"
 highlight_name: false
 ---
 
-Yang Yang is currently a first-year MSc student at TU Eindhoven. His research interests include visualization, data mining and artificial intelligence.
+Yang Yang is currently a first-year MSc student at TU Eindhoven. His research interests include visualization, data mining and machine learning.
+
+Before coming to TU Eindhoven, he obtained his B.Eng. degree from Nankai University.
